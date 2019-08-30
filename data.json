@@ -1,32 +1,15 @@
 {
-    "name": "Bharat Agsrwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "Prabhat Kadam",
+    "title": "Full Stack Developer",
+    "intro": "Hello",
     "skills": [{
             "title": "Skill 1",
-            "rating": "90"
-        },
-        {
-            "title": "Skill 2",
-            "rating": "97"
-        },
-        {
-            "title": "Skill 3",
-            "rating": "85"
-        },{
-            "title": "Skill 4",
-            "rating": "80"
-        },{
-            "title": "Skill 5",
-            "rating": "78"
-        },{
-            "title": "Skill 6",
             "rating": "90"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Chitkara University",
+        "phone": "9717983233",
+        "email": "prabhat171571.cse@chitkara.edu.in"
     }
 }
